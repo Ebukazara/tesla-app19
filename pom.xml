@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.239.228.231:8081/repository/team19-releases/</url> 
+	      <url>http://3.223.4.66:8081/repository/team30-Release/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.239.228.231:8081/repository/team19-snapshots/</url>
+	      <url>http://3.223.4.66:8081/repository/Team30-Snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
